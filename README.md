@@ -1,3 +1,4 @@
+![Green Retro Vintage Oak Tree Logo (Capa para Facebook) (1640 × 200 px)](https://github.com/Devs-Proz/Projeto-Integrador-Proz-Green-Oak/assets/91226847/6ae48191-47d5-4cfc-8858-4cc8ff5c03e4)
 
 # DIÁRIO DO GRUPO 3 DO PROJETO INTEGRADOR 
 
@@ -70,3 +71,4 @@ Nós trabalhamos coletivamente no design, revisando e refinando cada detalhe par
 Decidimos continuar com nossas reuniões regulares no Google Meets e Discord. Acreditamos que a colaboração contínua é a chave para o sucesso do nosso projeto, e essas plataformas têm sido extremamente úteis para a comunicação e colaboração eficazes do grupo.
 
 Estamos ansiosos para as próximas etapas e continuaremos a documentar nossos progressos aqui.
+![Green Retro Vintage Oak Tree Logo (Capa para Facebook) (1640 × 200 px)](https://github.com/Devs-Proz/Projeto-Integrador-Proz-Green-Oak/assets/91226847/6ae48191-47d5-4cfc-8858-4cc8ff5c03e4)
