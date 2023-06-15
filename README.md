@@ -71,4 +71,20 @@ Nós trabalhamos coletivamente no design, revisando e refinando cada detalhe par
 Decidimos continuar com nossas reuniões regulares no Google Meets e Discord. Acreditamos que a colaboração contínua é a chave para o sucesso do nosso projeto, e essas plataformas têm sido extremamente úteis para a comunicação e colaboração eficazes do grupo.
 
 Estamos ansiosos para as próximas etapas e continuaremos a documentar nossos progressos aqui.
+
+## Resumo da Reunião - Dia 14/06
+⏰ 21:15 até 00:00:
+
+Durante a reunião realizada no dia 14/06, das ⏰ 21:15 até 00:00, foram feitas as seguintes alterações no projeto Green Oak:
+
+- 📝 Criado formulário de login e cadastro na página de cadastro.
+- ✏️ O formulário de login foi implementado com os campos de usuário e senha.
+- ✏️ O formulário de cadastro foi implementado com os campos de nome, e-mail e senha.
+- 🎨 Adicionada a fonte "Montserrat" ao arquivo CSS global para ser utilizada em todo o site.
+- 🎨 Atualizada a propriedade `font-family` do arquivo CSS global para aplicar a fonte "Montserrat" em todos os elementos.
+- 🖼️ Adicionado o logotipo da marca na página de cadastro.
+- ⚙️ Foram criadas duas branches no repositório Git: "cadastro-login" e "add-logo".
+
+Essas alterações contribuem para o progresso do projeto Green Oak, que está avançando de forma positiva. 🌱💪
+
 ![Green Retro Vintage Oak Tree Logo (Capa para Facebook) (1640 × 200 px)](https://github.com/Devs-Proz/Projeto-Integrador-Proz-Green-Oak/assets/91226847/6ae48191-47d5-4cfc-8858-4cc8ff5c03e4)
